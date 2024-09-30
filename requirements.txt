@@ -1,0 +1,20 @@
+configparser
+pylint
+pytest
+pytest-mock
+pytest-cov
+# Langchain
+langchain
+langchain_community
+tiktoken
+langchain-nomic
+langchain-ollama
+scikit-learn 
+langgraph 
+tavily-python 
+bs4
+jq
+requests
+langchain-openai
+opensearch-py
+# "nomic[local]"
